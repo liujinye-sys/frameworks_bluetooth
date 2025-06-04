@@ -3,7 +3,7 @@
 \[ [English](README.md) | 简体中文 \]
 
 ## 一、 openvela 蓝牙能力介绍
-
+ 
 openvela 蓝牙已经通过 Bluetooth 5.4 认证。目前支持的蓝牙能力包括：
 
 - Core
